@@ -1,0 +1,12 @@
+package org.fps.rpg;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FpsrpgApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FpsrpgApplication.class, args);
+	}
+}
